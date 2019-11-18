@@ -1,1 +1,1 @@
-let traveling = true;
+let travelling = true;
